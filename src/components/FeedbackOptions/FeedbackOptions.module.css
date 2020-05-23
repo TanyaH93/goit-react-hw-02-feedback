@@ -1,0 +1,24 @@
+.feedbackSection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  /* padding: 10px; */
+}
+.feedbackButton {
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  border: 2px solid rgb(253, 190, 214);
+  background: transparent;
+  width: 30%;
+  display: block;
+  transition: color 1s, background 1s;
+  outline: none;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.feedbackButton:hover {
+  background: #fff;
+  color: rgba(80, 8, 41, 0.9);
+}

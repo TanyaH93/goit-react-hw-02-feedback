@@ -1,0 +1,11 @@
+.statistics {
+  list-style: none;
+  text-align: center;
+}
+.title {
+  padding: 20px;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
